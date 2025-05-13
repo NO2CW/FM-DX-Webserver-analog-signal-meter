@@ -1,4 +1,4 @@
-// Plugin configuration, this is used in the administration when plugins are loaded
+// Plugin configuration, this is used in the administration when plugins are loaded 
 var pluginConfig = {
     name: 'Analog meter',
     version: '1.0',
